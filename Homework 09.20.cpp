@@ -37,4 +37,11 @@
 	}
 	cout << b;
 
+ 	//5
+  	int k;
+	cout << "Chislo: ";
+	cin >> k;
+	for (int i = 1; i < 10 + 1; i++) {
+		cout << k << " x " << i << " = " << k * i << endl;
+	}
 */
