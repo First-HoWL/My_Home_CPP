@@ -25,4 +25,16 @@
 	a /= 1000;
 	cout << a;
 
+  	//4
+
+    	int a = 0;
+	long long b = 0;
+	cout << "Chislo:" << endl;
+	cin >> a;
+	b = 1;
+	for (int i = a; i < 20 + 1; i++) {
+		b *= i;
+	}
+	cout << b;
+
 */
