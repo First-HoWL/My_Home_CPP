@@ -1,3 +1,10 @@
+#include <iostream>
+#include <time.h>
+#include <windows.h>
+using namespace std;
+
+int main()
+{
 /*
 	// 1
 	int a, b = 0;
@@ -45,3 +52,6 @@
 		cout << k << " x " << i << " = " << k * i << endl;
 	}
 */
+
+	return 0;
+}
