@@ -9,6 +9,11 @@
 	cout << b;
 	*/
 	// 2
-	int x, y;
+	int x, y, z;
 	cout << "chislo(x, y): ";
 	cin >> x >> y;
+	z = x;
+	for (int i = 0; i < y - 1; i++) {
+		z *= x;
+	}
+	cout << x << "v stepini" << y << " = " << z << endl;
