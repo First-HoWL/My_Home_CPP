@@ -17,3 +17,11 @@
 		z *= x;
 	}
 	cout << x << "v stepini" << y << " = " << z << endl;
+	//3
+	float a = 0;
+	for (int i = 0; i < 1000; i++) {
+		a += i;
+	}
+	a /= 1000;
+	cout << a;
+
