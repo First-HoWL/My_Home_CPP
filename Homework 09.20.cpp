@@ -7,7 +7,7 @@
 		b += i;
 	}
 	cout << b;
-	*/
+	
 	// 2
 	int x, y, z;
 	cout << "chislo(x, y): ";
@@ -25,3 +25,4 @@
 	a /= 1000;
 	cout << a;
 
+*/
